@@ -8,5 +8,6 @@ public class GItTest {
         System.out.println("This is Git4 hotfix");
         System.out.println("This is master");
         System.out.println("This is Git4 hotfix2");
+        System.out.println("After push update");
     }
 }
