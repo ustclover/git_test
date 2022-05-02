@@ -10,5 +10,6 @@ public class GItTest {
         System.out.println("This is Git4 hotfix2");
         System.out.println("After push update");
         System.out.println("Test which one?");
+        System.out.println("haha");
     }
 }
